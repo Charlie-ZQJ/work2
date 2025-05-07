@@ -1,11 +1,10 @@
-# 仇河东 324085503103 24机械1班 github：(https://github.com/Key407/CHD/tree/main)
-## 作业3.py
+# 钟泉江 324080203115 24机械1班 github：(https://github.com/Charlie-ZQJ/work2)
+## work.py
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_moons
 from matplotlib.colors import ListedColormap
-# 正确导入 linear_model 子模块
 from sklearn.linear_model import LogisticRegressionCV
 
 # 设置随机种子和生成数据
@@ -335,7 +334,7 @@ plt.show()
 ### 功能描述
 这段代码的主要功能是生成月牙形的样本数据，使用逻辑回归模型和自定义的神经网络模型对数据进行分类，并绘制决策边界。同时，还展示了不同隐藏层节点数量对神经网络模型决策边界的影响。
 ### 使用方法
-1、保存作业3.py文件
+1、保存work.py文件
 
 2、在终端或命令行中执行启动程序
 
